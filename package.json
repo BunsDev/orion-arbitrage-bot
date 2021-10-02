@@ -1,0 +1,16 @@
+{
+  "name": "orion-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "SullFurix <sull.furix@gmail.com>",
+  "private": false,
+  "dependencies": {
+    "@orionprotocol/orion-trading-sdk": "^1.3.5",
+    "dotenv": "10.0.0",
+    "ethers": "5.3.1"
+  },
+  "scripts": {
+    "start": "node ./index"
+  }
+}
